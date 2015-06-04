@@ -6,7 +6,7 @@
 
 You can deploy your own version of WordPress & PostgreSQL on Heroku in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-WordPress-PostgreSQL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/proletarian/Heroku-WordPress-PostgreSQL)
 
 You can see a live demo at [Heroku WordPress PostgreSQL](http://heroku-wordpress-postgresql.herokuapp.com/)
 
